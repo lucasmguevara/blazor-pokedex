@@ -1,0 +1,12 @@
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\bin\Debug\net6.0\Pokedex.Models.deps.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\bin\Debug\net6.0\Pokedex.Models.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\bin\Debug\net6.0\Pokedex.Models.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.csproj.AssemblyReference.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.AssemblyInfoInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.AssemblyInfo.cs
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\refint\Pokedex.Models.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\Pokedex.Models.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Models\obj\Debug\net6.0\ref\Pokedex.Models.dll

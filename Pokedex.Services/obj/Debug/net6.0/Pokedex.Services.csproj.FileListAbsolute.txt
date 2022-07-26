@@ -1,0 +1,15 @@
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\bin\Debug\net6.0\Pokedex.Services.deps.json
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\bin\Debug\net6.0\Pokedex.Services.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\bin\Debug\net6.0\Pokedex.Services.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\bin\Debug\net6.0\Pokedex.Models.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\bin\Debug\net6.0\Pokedex.Models.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.csproj.AssemblyReference.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.AssemblyInfoInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.AssemblyInfo.cs
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.csproj.CopyComplete
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\refint\Pokedex.Services.dll
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\Pokedex.Services.pdb
+D:\Cursos\Programacion\Udemy\Blazor Ultimate\Pokedex\Pokedex.Services\obj\Debug\net6.0\ref\Pokedex.Services.dll

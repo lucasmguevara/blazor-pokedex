@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Client", "Pokedex.Client\Pokedex.Client.csproj", "{EB055D1F-D735-42A5-B37C-92DE5D5AAB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Models", "Pokedex.Models\Pokedex.Models.csproj", "{DFE90E14-BF62-4844-AE67-C1BD88E8E1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Services", "Pokedex.Services\Pokedex.Services.csproj", "{40357EAF-E46D-4FDA-AA29-7B599AEF8B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB055D1F-D735-42A5-B37C-92DE5D5AAB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB055D1F-D735-42A5-B37C-92DE5D5AAB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB055D1F-D735-42A5-B37C-92DE5D5AAB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB055D1F-D735-42A5-B37C-92DE5D5AAB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE90E14-BF62-4844-AE67-C1BD88E8E1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE90E14-BF62-4844-AE67-C1BD88E8E1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE90E14-BF62-4844-AE67-C1BD88E8E1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE90E14-BF62-4844-AE67-C1BD88E8E1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40357EAF-E46D-4FDA-AA29-7B599AEF8B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40357EAF-E46D-4FDA-AA29-7B599AEF8B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40357EAF-E46D-4FDA-AA29-7B599AEF8B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40357EAF-E46D-4FDA-AA29-7B599AEF8B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D938BA7C-7862-49F1-B46D-3C295EE46619}
+	EndGlobalSection
+EndGlobal
